@@ -1,4 +1,4 @@
-const { adicionarTarefa, concluirTarefa } = require('../src/tarefas')
+const { adicionarTarefa, concluirTarefa } = require('../src/tarefa')
 
 describe('Sistema de Gerenciamento de Tarefas', () => {
   test('Adicionar tarefa válida', () => {
