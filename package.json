@@ -1,0 +1,22 @@
+{
+  "name": "projeto4-sistema-de-gerenciamento-de-tarefas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo Build realizado com sucesso"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RavQueen/projeto4-sistema-de-gerenciamento-de-tarefas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RavQueen/projeto4-sistema-de-gerenciamento-de-tarefas/issues"
+  },
+  "homepage": "https://github.com/RavQueen/projeto4-sistema-de-gerenciamento-de-tarefas#readme"
+}
