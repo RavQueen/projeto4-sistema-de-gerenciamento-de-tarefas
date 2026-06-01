@@ -1,5 +1,5 @@
 function adicionarTarefa(array, text) {
-    if(!text || texto.trim() == "") {
+    if(!text || text.trim() == "") {
         return "Não adicionar"
     }
 
@@ -13,5 +13,7 @@ function adicionarTarefa(array, text) {
 
 function concluirTarefa(array, index) {
     array[index].concluida = true
-    return lista
+    return "Status concluído"
 }
+
+module.exports = {adicionarTarefa, concluirTarefa}

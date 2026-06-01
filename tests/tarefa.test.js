@@ -25,6 +25,6 @@ describe('Sistema de Gerenciamento de Tarefas', () => {
     ]
     const result = concluirTarefa(tarefas, 0)
 
-    expect(result).toBe("Status Concluído")
+    expect(result).toBe("Status concluído")
   })
 })
