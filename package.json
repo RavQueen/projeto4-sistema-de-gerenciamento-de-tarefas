@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "build": "echo Build realizado com sucesso"
   },
   "repository": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/RavQueen/projeto4-sistema-de-gerenciamento-de-tarefas/issues"
   },
-  "homepage": "https://github.com/RavQueen/projeto4-sistema-de-gerenciamento-de-tarefas#readme"
+  "homepage": "https://github.com/RavQueen/projeto4-sistema-de-gerenciamento-de-tarefas#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
 }
